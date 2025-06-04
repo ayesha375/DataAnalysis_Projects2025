@@ -1,0 +1,501 @@
+accident_id,date,location,road_type,severity,weather_condition
+1,14-03-25,Haridwar,Rural Road,Minor,Windy
+2,01-12-24,Hazaribagh,Rural Road,Fatal,Windy
+3,17-06-24,Yamunanagar,City Road,Fatal,Snow
+4,26-11-23,Amravati,Highway,Serious,Windy
+5,25-05-23,Nagercoil,Highway,Fatal,Rainy
+6,29-05-24,Ozhukarai,Highway,Serious,Snow
+7,19-12-23,Siwan,Rural Road,Minor,Snow
+8,16-03-25,Ramgarh,City Road,Serious,Fog
+9,05-02-24,Gurgaon,Highway,Serious,Snow
+10,03-11-23,Begusarai,City Road,Fatal,Rainy
+11,25-07-24,Parbhani,City Road,Fatal,Fog
+12,19-04-24,South Dumdum,Rural Road,Serious,Snow
+13,17-09-24,Mira-Bhayandar,Rural Road,Fatal,Windy
+14,26-03-25,Vijayawada,City Road,Serious,Snow
+15,08-12-24,Panihati,City Road,Minor,Rainy
+16,01-11-24,Proddatur,City Road,Fatal,Windy
+17,01-02-25,Srinagar,Highway,Serious,Snow
+18,06-08-24,Bangalore,Rural Road,Minor,Clear
+19,11-10-24,Nizamabad,Highway,Fatal,Fog
+20,10-10-24,Pondicherry,Highway,Minor,Rainy
+21,29-05-23,Kozhikode,Expressway,Fatal,Fog
+22,17-02-25,Vijayawada,Highway,Minor,Snow
+23,11-12-24,Shimla,Expressway,Serious,Fog
+24,23-07-23,Kottayam,City Road,Serious,Rainy
+25,02-04-25,Jaunpur,Highway,Serious,Windy
+26,13-06-23,Hindupur,City Road,Minor,Fog
+27,26-03-25,Guntur,City Road,Serious,Rainy
+28,10-12-24,Aizawl,Highway,Minor,Clear
+29,01-02-24,Siliguri,Expressway,Fatal,Snow
+30,16-05-24,Arrah,Expressway,Minor,Windy
+31,24-06-23,Ahmednagar,City Road,Serious,Fog
+32,15-01-24,Bhalswa Jahangir Pur,Expressway,Minor,Snow
+33,21-09-24,Meerut,Highway,Fatal,Rainy
+34,17-09-23,Aizawl,Expressway,Fatal,Clear
+35,24-11-24,Yamunanagar,Rural Road,Serious,Rainy
+36,12-10-23,Purnia,Highway,Fatal,Windy
+37,22-02-25,Jhansi,Rural Road,Minor,Fog
+38,26-11-23,Firozabad,Highway,Serious,Fog
+39,19-02-25,Nashik,City Road,Serious,Rainy
+40,13-04-25,Srikakulam,City Road,Fatal,Rainy
+41,17-09-23,Raiganj,City Road,Serious,Rainy
+42,02-04-25,Solapur,City Road,Serious,Rainy
+43,30-12-23,Sangli-Miraj & Kupwad,City Road,Minor,Fog
+44,31-10-23,Muzaffarpur,City Road,Minor,Clear
+45,26-01-24,Saharsa,Expressway,Serious,Rainy
+46,03-02-24,Nashik,Expressway,Minor,Snow
+47,24-09-23,Rewa,Rural Road,Serious,Windy
+48,26-12-23,Katihar,Highway,Minor,Snow
+49,22-04-24,Haldia,Expressway,Minor,Clear
+50,29-11-23,Bhalswa Jahangir Pur,City Road,Fatal,Rainy
+51,03-04-25,Pondicherry,Rural Road,Serious,Snow
+52,21-06-24,Chandigarh,Expressway,Fatal,Clear
+53,13-07-23,Tirunelveli,Rural Road,Fatal,Rainy
+54,12-06-23,Rourkela,Highway,Minor,Snow
+55,06-10-24,Tadepalligudem,City Road,Minor,Windy
+56,18-07-24,Satna,Expressway,Serious,Snow
+57,22-09-24,Gandhidham,City Road,Minor,Rainy
+58,02-05-25,Madanapalle,Expressway,Fatal,Rainy
+59,07-04-25,Panipat,Highway,Serious,Fog
+60,13-07-24,Secunderabad,City Road,Fatal,Snow
+61,16-06-24,Agra,Rural Road,Fatal,Windy
+62,26-10-24,Saharanpur,City Road,Fatal,Rainy
+63,30-07-24,Jaipur,Rural Road,Fatal,Rainy
+64,28-05-23,Karnal,Expressway,Serious,Rainy
+65,04-06-23,Kottayam,Rural Road,Fatal,Rainy
+66,17-08-23,Jabalpur,Rural Road,Serious,Snow
+67,01-04-24,Shivpuri,Expressway,Serious,Windy
+68,08-01-24,Solapur,Expressway,Serious,Snow
+69,19-01-24,Bhilai,City Road,Minor,Clear
+70,10-06-24,Thrissur,City Road,Fatal,Snow
+71,06-10-24,Chapra,Expressway,Serious,Rainy
+72,12-12-23,Ozhukarai,Expressway,Serious,Snow
+73,22-08-24,Jamalpur,Rural Road,Serious,Fog
+74,07-12-24,Coimbatore,City Road,Serious,Snow
+75,31-12-24,Rourkela,City Road,Minor,Fog
+76,26-02-24,Ambala,Rural Road,Fatal,Clear
+77,20-06-23,Madurai,City Road,Fatal,Clear
+78,18-01-25,Bulandshahr,Rural Road,Fatal,Clear
+79,10-09-23,Jalgaon,Highway,Minor,Snow
+80,02-05-25,Pudukkottai,Rural Road,Serious,Rainy
+81,24-05-23,Satara,Rural Road,Serious,Rainy
+82,23-10-24,Phagwara,Highway,Serious,Clear
+83,15-12-23,Karnal,Expressway,Serious,Fog
+84,02-01-24,Pimpri-Chinchwad,Expressway,Serious,Rainy
+85,18-12-24,Sonipat,Rural Road,Serious,Snow
+86,29-08-24,Solapur,Expressway,Fatal,Snow
+87,07-01-25,Adoni,Expressway,Fatal,Rainy
+88,02-06-23,Danapur,Highway,Minor,Snow
+89,04-07-24,Uluberia,City Road,Serious,Rainy
+90,15-02-24,Tumkur,City Road,Serious,Snow
+91,24-04-25,Ichalkaranji,Highway,Minor,Windy
+92,01-03-25,Ranchi,Expressway,Serious,Snow
+93,30-01-24,Rampur,Rural Road,Serious,Rainy
+94,28-04-24,Nellore,City Road,Minor,Fog
+95,21-07-23,Nellore,Rural Road,Minor,Clear
+96,26-12-24,Bhiwani,City Road,Fatal,Fog
+97,19-10-23,Motihari,Expressway,Serious,Windy
+98,04-06-24,Jalna,Rural Road,Serious,Fog
+99,17-06-24,Jalgaon,Highway,Serious,Fog
+100,02-04-24,Amritsar,Expressway,Minor,Clear
+101,20-12-24,Chittoor,Highway,Fatal,Fog
+102,04-12-24,Jaunpur,City Road,Serious,Fog
+103,01-01-25,Raipur,Expressway,Serious,Windy
+104,17-04-24,Coimbatore,Highway,Minor,Snow
+105,29-04-24,Bhatpara,Rural Road,Fatal,Rainy
+106,06-01-25,Bilaspur,Rural Road,Minor,Windy
+107,26-05-24,Tiruchirappalli,Highway,Fatal,Clear
+108,26-09-23,Durg,Highway,Fatal,Clear
+109,24-07-23,Ajmer,Rural Road,Serious,Clear
+110,31-05-24,Begusarai,Expressway,Minor,Fog
+111,10-10-24,Davanagere,Expressway,Minor,Snow
+112,13-08-23,Hazaribagh,City Road,Minor,Rainy
+113,24-03-25,Jodhpur,Highway,Fatal,Clear
+114,21-09-24,Panchkula,Expressway,Minor,Windy
+115,17-09-24,Nagpur,City Road,Minor,Clear
+116,24-09-23,Dhule,Expressway,Fatal,Windy
+117,02-02-24,Arrah,Rural Road,Serious,Fog
+118,29-01-25,Maheshtala,City Road,Fatal,Clear
+119,09-04-24,Tiruchirappalli,Expressway,Minor,Rainy
+120,19-06-24,Bellary,Highway,Serious,Rainy
+121,05-06-24,Bilaspur,Highway,Fatal,Windy
+122,18-05-25,Haridwar,City Road,Minor,Fog
+123,28-12-23,Dehri,Highway,Fatal,Clear
+124,25-11-24,Bhagalpur,Expressway,Serious,Windy
+125,20-11-23,Rajkot,Highway,Serious,Fog
+126,13-09-23,Dindigul,Rural Road,Minor,Windy
+127,21-08-23,Madanapalle,Expressway,Serious,Windy
+128,13-07-24,Panvel,Highway,Minor,Clear
+129,08-03-25,Akola,Expressway,Minor,Windy
+130,19-11-24,Jalgaon,Expressway,Fatal,Clear
+131,14-05-24,Amaravati,Highway,Fatal,Rainy
+132,21-12-24,Pondicherry,Expressway,Minor,Fog
+133,23-12-23,Kumbakonam,City Road,Serious,Clear
+134,10-11-24,Bharatpur,Expressway,Fatal,Clear
+135,19-01-24,Khammam,Rural Road,Fatal,Snow
+136,29-02-24,Howrah,City Road,Serious,Clear
+137,26-10-23,Agra,Rural Road,Serious,Fog
+138,08-12-24,Bongaigaon,Highway,Fatal,Fog
+139,03-06-23,Jamalpur,Highway,Minor,Rainy
+140,04-11-23,Junagadh,Highway,Minor,Clear
+141,12-01-25,Thane,Rural Road,Serious,Snow
+142,23-12-24,Amroha,Highway,Serious,Snow
+143,13-03-25,Jehanabad,City Road,Serious,Windy
+144,07-02-25,Panchkula,Rural Road,Minor,Rainy
+145,25-04-25,Amravati,Rural Road,Serious,Windy
+146,26-09-24,Sri Ganganagar,City Road,Minor,Clear
+147,06-04-25,Haldia,Expressway,Minor,Fog
+148,19-05-25,Raebareli,Expressway,Fatal,Snow
+149,12-03-25,Junagadh,Rural Road,Fatal,Clear
+150,08-12-24,Dibrugarh,Rural Road,Fatal,Rainy
+151,12-05-25,Gandhidham,Highway,Fatal,Windy
+152,18-04-25,Karnal,City Road,Fatal,Rainy
+153,02-09-23,Hazaribagh,Rural Road,Minor,Rainy
+154,22-06-24,Rohtak,City Road,Fatal,Fog
+155,31-03-24,Danapur,Rural Road,Fatal,Windy
+156,04-03-25,Agartala,City Road,Minor,Windy
+157,24-05-23,Miryalaguda,Rural Road,Fatal,Rainy
+158,17-07-23,Kirari Suleman Nagar,Expressway,Serious,Fog
+159,11-05-24,Tirupati,Expressway,Serious,Windy
+160,21-04-25,Bihar Sharif,Rural Road,Minor,Snow
+161,28-01-25,Sonipat,City Road,Fatal,Windy
+162,18-07-24,Nizamabad,Rural Road,Serious,Clear
+163,10-12-23,Thane,Expressway,Minor,Snow
+164,05-07-23,Ludhiana,Expressway,Fatal,Windy
+165,07-10-23,Hapur,City Road,Fatal,Rainy
+166,08-03-25,Hubli–Dharwad,City Road,Fatal,Snow
+167,11-06-23,Sultan Pur Majra,Highway,Minor,Clear
+168,13-05-24,Coimbatore,Rural Road,Fatal,Fog
+169,22-11-23,Ludhiana,Expressway,Fatal,Clear
+170,29-09-24,Moradabad,Expressway,Fatal,Rainy
+171,11-03-24,Khammam,Highway,Fatal,Windy
+172,08-11-23,Shahjahanpur,Highway,Serious,Fog
+173,30-11-24,Dehri,Expressway,Serious,Clear
+174,07-04-24,Hazaribagh,Highway,Minor,Rainy
+175,23-07-24,Maheshtala,Expressway,Serious,Clear
+176,27-08-23,Dewas,Rural Road,Serious,Windy
+177,07-01-24,Bhilai,Rural Road,Serious,Clear
+178,30-05-23,Kanpur,Expressway,Fatal,Fog
+179,15-08-24,Kulti,Expressway,Serious,Windy
+180,29-10-23,Naihati,Rural Road,Minor,Windy
+181,23-07-23,Sonipat,City Road,Fatal,Clear
+182,02-02-24,Kakinada,City Road,Minor,Windy
+183,04-02-25,Kochi,City Road,Minor,Windy
+184,25-07-24,Gwalior,Expressway,Minor,Clear
+185,16-04-24,Dewas,City Road,Minor,Windy
+186,07-07-24,Jaunpur,Rural Road,Minor,Clear
+187,12-06-24,Ballia,Rural Road,Serious,Clear
+188,31-12-23,Kirari Suleman Nagar,Rural Road,Fatal,Fog
+189,17-02-25,Katihar,Highway,Minor,Snow
+190,15-09-23,Kanpur,Expressway,Fatal,Fog
+191,21-10-24,Kurnool,Expressway,Minor,Clear
+192,29-08-23,Gurgaon,Rural Road,Serious,Snow
+193,06-01-24,Bharatpur,Expressway,Serious,Rainy
+194,07-08-24,Davanagere,Highway,Serious,Fog
+195,25-01-25,Karnal,Expressway,Fatal,Clear
+196,29-06-24,Shimoga,Expressway,Minor,Fog
+197,22-02-25,Sikar,Highway,Minor,Fog
+198,28-08-23,Gandhidham,Highway,Serious,Fog
+199,16-01-24,Bulandshahr,Rural Road,Serious,Windy
+200,23-05-23,Kadapa,Highway,Fatal,Snow
+201,06-08-24,Raichur,Rural Road,Serious,Rainy
+202,23-02-25,Saharanpur,City Road,Fatal,Fog
+203,28-09-23,Vijayanagaram,Rural Road,Fatal,Rainy
+204,01-08-23,Ballia,Highway,Serious,Clear
+205,23-12-23,Hyderabad,Expressway,Minor,Fog
+206,21-12-24,Siliguri,Highway,Minor,Snow
+207,21-04-25,Suryapet,Highway,Fatal,Clear
+208,11-06-23,Serampore,Rural Road,Serious,Windy
+209,07-06-23,Ghaziabad,Highway,Fatal,Fog
+210,31-08-24,Raichur,City Road,Fatal,Windy
+211,14-08-23,Ahmednagar,Expressway,Minor,Clear
+212,01-01-24,Rohtak,Rural Road,Fatal,Clear
+213,07-10-24,Tinsukia,Highway,Minor,Fog
+214,05-08-23,Kolhapur,Rural Road,Minor,Snow
+215,04-01-25,Vijayawada,Rural Road,Fatal,Fog
+216,19-06-23,Haridwar,Rural Road,Minor,Rainy
+217,02-04-24,Ghaziabad,Expressway,Fatal,Clear
+218,09-08-24,Sambhal,Highway,Serious,Snow
+219,07-10-23,Nellore,Expressway,Minor,Clear
+220,26-10-24,Noida,City Road,Minor,Rainy
+221,08-12-23,Bhusawal,Highway,Minor,Fog
+222,07-02-24,Navi Mumbai,City Road,Serious,Snow
+223,24-11-24,Dibrugarh,City Road,Minor,Clear
+224,30-03-24,Hapur,Expressway,Serious,Windy
+225,17-04-24,Kalyan-Dombivli,Expressway,Fatal,Snow
+226,23-02-25,Chinsurah,Rural Road,Minor,Windy
+227,08-07-24,Amaravati,Rural Road,Minor,Fog
+228,01-11-23,Kota,Expressway,Serious,Fog
+229,07-06-23,Darbhanga,City Road,Fatal,Snow
+230,07-12-24,Raebareli,Expressway,Minor,Clear
+231,08-10-23,Gopalpur,City Road,Serious,Windy
+232,07-09-24,Ozhukarai,Highway,Minor,Clear
+233,04-10-23,Sri Ganganagar,City Road,Minor,Snow
+234,09-10-24,Nadiad,Expressway,Minor,Snow
+235,22-04-25,Jorhat,Expressway,Minor,Clear
+236,19-06-23,Saharsa,Highway,Fatal,Fog
+237,08-02-25,Dewas,Rural Road,Serious,Fog
+238,03-02-24,Muzaffarnagar,City Road,Serious,Clear
+239,12-08-23,Saharanpur,Rural Road,Fatal,Clear
+240,21-09-23,Kalyan-Dombivli,Rural Road,Fatal,Snow
+241,25-07-24,Ratlam,Expressway,Serious,Clear
+242,26-08-24,Nagercoil,Rural Road,Serious,Fog
+243,02-04-25,Jehanabad,Expressway,Serious,Rainy
+244,05-06-23,Rourkela,Rural Road,Serious,Fog
+245,23-07-23,Indore,Expressway,Fatal,Snow
+246,22-04-24,Farrukhabad,Rural Road,Serious,Windy
+247,02-08-23,Kollam,Rural Road,Minor,Fog
+248,08-06-23,Bhubaneswar,Expressway,Serious,Fog
+249,01-07-24,Kollam,City Road,Serious,Rainy
+250,02-02-24,Ajmer,City Road,Minor,Snow
+251,22-10-23,Haldia,Rural Road,Serious,Fog
+252,09-08-24,Cuttack,Rural Road,Minor,Windy
+253,23-03-25,Gwalior,Expressway,Serious,Rainy
+254,25-04-25,Mango,Rural Road,Minor,Clear
+255,21-12-24,Bhimavaram,Rural Road,Fatal,Snow
+256,27-09-23,Korba,City Road,Minor,Windy
+257,22-05-24,Nanded,Highway,Fatal,Clear
+258,11-09-24,Gaya,City Road,Minor,Rainy
+259,13-09-24,Gwalior,City Road,Minor,Fog
+260,09-02-24,Haldia,City Road,Minor,Fog
+261,24-05-23,Pune,Expressway,Minor,Fog
+262,17-02-25,Kulti,City Road,Minor,Windy
+263,14-10-24,Bidar,City Road,Fatal,Clear
+264,10-11-24,Tezpur,Rural Road,Serious,Fog
+265,10-11-23,Kurnool,City Road,Serious,Rainy
+266,16-07-24,Gangtok,Rural Road,Fatal,Clear
+267,11-02-25,Berhampore,Expressway,Fatal,Rainy
+268,10-05-24,Bihar Sharif,Expressway,Serious,Fog
+269,18-01-24,Delhi,Rural Road,Serious,Snow
+270,28-09-23,Gorakhpur,Rural Road,Minor,Fog
+271,02-10-23,Rourkela,Highway,Minor,Windy
+272,29-12-23,Bathinda,Highway,Minor,Snow
+273,01-01-25,Hyderabad,Highway,Serious,Clear
+274,26-12-23,Haldia,Highway,Fatal,Clear
+275,25-06-24,Aurangabad,Highway,Minor,Clear
+276,18-12-23,Bhopal,Expressway,Minor,Clear
+277,10-12-23,Agartala,Highway,Minor,Fog
+278,23-06-24,Jammu,City Road,Minor,Windy
+279,07-10-24,Gaya,Rural Road,Fatal,Windy
+280,20-07-24,Rampur,City Road,Fatal,Rainy
+281,24-01-25,Khora ,Expressway,Minor,Windy
+282,19-05-24,Kulti,Rural Road,Minor,Snow
+283,10-09-23,Deoghar,City Road,Fatal,Snow
+284,31-08-24,Phagwara,Rural Road,Serious,Fog
+285,14-08-23,Saharanpur,Rural Road,Serious,Rainy
+286,03-02-25,Rajkot,Rural Road,Serious,Fog
+287,11-09-23,Serampore,Rural Road,Minor,Clear
+288,15-09-23,Agra,Highway,Minor,Fog
+289,21-06-24,Moradabad,City Road,Serious,Clear
+290,04-05-25,Patna,Expressway,Fatal,Clear
+291,12-11-24,Kurnool,Rural Road,Minor,Fog
+292,15-08-23,Farrukhabad,Rural Road,Minor,Rainy
+293,13-10-23,Korba,Expressway,Serious,Snow
+294,02-03-25,Satara,Rural Road,Fatal,Snow
+295,02-08-23,Saharsa,Highway,Fatal,Fog
+296,15-12-24,Kanpur,City Road,Serious,Rainy
+297,12-02-24,Tiruppur,Highway,Fatal,Snow
+298,29-07-23,Coimbatore,Rural Road,Serious,Rainy
+299,23-03-25,Thanjavur,City Road,Serious,Fog
+300,10-02-25,Adoni,Rural Road,Minor,Rainy
+301,14-04-24,Bhopal,Highway,Serious,Snow
+302,06-07-24,Morena,Expressway,Serious,Clear
+303,16-08-23,Nadiad,Rural Road,Fatal,Clear
+304,04-09-23,Bellary,Highway,Minor,Windy
+305,31-07-24,Srinagar,Expressway,Minor,Rainy
+306,22-09-24,Rajkot,City Road,Fatal,Fog
+307,26-10-24,Tinsukia,Highway,Serious,Clear
+308,13-02-24,Tezpur,City Road,Fatal,Rainy
+309,03-08-23,Bhusawal,Highway,Minor,Windy
+310,25-11-24,Sonipat,City Road,Fatal,Fog
+311,14-06-23,Bilaspur,Highway,Minor,Windy
+312,07-07-24,Agra,City Road,Serious,Clear
+313,23-08-24,Bihar Sharif,Rural Road,Serious,Rainy
+314,14-01-24,Bally,Expressway,Minor,Windy
+315,15-04-25,Bhimavaram,City Road,Serious,Windy
+316,17-05-24,Chandrapur,City Road,Serious,Snow
+317,26-04-25,Nangloi Jat,Expressway,Serious,Clear
+318,19-09-23,Chittoor,Expressway,Fatal,Windy
+319,06-01-24,Bareilly,Rural Road,Minor,Fog
+320,10-11-24,Katihar,Rural Road,Serious,Clear
+321,25-12-24,Barasat,Highway,Minor,Rainy
+322,02-08-23,Alwar,Expressway,Fatal,Windy
+323,04-05-25,Berhampur,Highway,Serious,Fog
+324,18-12-23,Amravati,Highway,Minor,Windy
+325,03-05-24,Bettiah,Rural Road,Fatal,Fog
+326,23-01-25,Sri Ganganagar,Highway,Fatal,Snow
+327,24-10-24,Ratlam,City Road,Fatal,Snow
+328,28-09-23,Bokaro,Highway,Serious,Fog
+329,16-03-24,Nandyal,Rural Road,Serious,Windy
+330,04-03-24,Motihari,Highway,Fatal,Clear
+331,05-09-24,Fatehpur,Rural Road,Fatal,Clear
+332,16-02-25,Chittoor,City Road,Fatal,Rainy
+333,25-10-24,Bathinda,City Road,Minor,Snow
+334,09-06-23,Bokaro,Highway,Serious,Clear
+335,14-07-23,Proddatur,City Road,Serious,Rainy
+336,11-05-25,Saharanpur,City Road,Fatal,Rainy
+337,30-03-24,Indore,Highway,Serious,Rainy
+338,05-11-23,Katni,Highway,Minor,Fog
+339,24-10-24,Amaravati,Highway,Fatal,Snow
+340,11-11-23,Coimbatore,Expressway,Fatal,Fog
+341,09-07-23,Darbhanga,Highway,Minor,Rainy
+342,28-12-23,Srikakulam,Expressway,Minor,Rainy
+343,21-02-25,Bidhannagar,Expressway,Minor,Snow
+344,17-09-24,Jamshedpur,City Road,Fatal,Windy
+345,20-03-25,Gudivada,Highway,Fatal,Rainy
+346,27-05-23,Hazaribagh,City Road,Fatal,Windy
+347,05-06-23,Durg,Highway,Serious,Clear
+348,12-12-23,Kavali,City Road,Serious,Fog
+349,05-06-23,Agartala,Expressway,Fatal,Rainy
+350,17-03-24,Durg,Rural Road,Serious,Rainy
+351,04-03-25,Kalyan-Dombivli,Rural Road,Serious,Snow
+352,02-01-25,Vijayanagaram,Expressway,Serious,Rainy
+353,23-09-24,Surat,City Road,Minor,Fog
+354,07-01-24,Ramagundam,Rural Road,Minor,Fog
+355,01-09-24,Ranchi,Highway,Serious,Windy
+356,07-07-24,Bally,City Road,Minor,Snow
+357,22-09-24,Pali,Highway,Fatal,Clear
+358,10-08-24,Tinsukia,Rural Road,Fatal,Fog
+359,30-07-24,Barasat,City Road,Fatal,Snow
+360,29-01-24,Alappuzha,Rural Road,Fatal,Clear
+361,10-07-24,Asansol,Expressway,Fatal,Fog
+362,21-09-23,Nagaon,Expressway,Serious,Snow
+363,14-11-23,Naihati,Expressway,Fatal,Rainy
+364,12-03-24,Ahmedabad,Expressway,Serious,Clear
+365,11-11-24,Thrissur,Expressway,Minor,Rainy
+366,04-07-23,Burhanpur,Expressway,Fatal,Clear
+367,05-11-24,Nellore,City Road,Fatal,Clear
+368,15-08-24,Bhilai,City Road,Serious,Fog
+369,07-07-24,Panihati,City Road,Serious,Snow
+370,22-09-24,Satara,Rural Road,Serious,Fog
+371,12-02-24,Howrah,City Road,Minor,Rainy
+372,17-12-24,Singrauli,City Road,Serious,Clear
+373,22-04-24,Jalna,City Road,Fatal,Windy
+374,01-05-24,Raurkela Industrial Township,City Road,Minor,Clear
+375,15-04-24,Gandhinagar,Highway,Minor,Rainy
+376,10-07-24,Ichalkaranji,Expressway,Minor,Rainy
+377,25-02-24,Rewa,Highway,Serious,Snow
+378,10-08-23,Ranchi,Rural Road,Minor,Clear
+379,17-02-24,Sangli-Miraj & Kupwad,City Road,Serious,Snow
+380,21-03-24,Bidhannagar,City Road,Minor,Fog
+381,11-08-24,Haridwar,Highway,Fatal,Windy
+382,01-10-23,Berhampore,Rural Road,Serious,Fog
+383,18-05-24,Mirzapur,City Road,Fatal,Clear
+384,22-04-25,Kadapa,Highway,Fatal,Windy
+385,13-01-24,Tenali,Expressway,Serious,Rainy
+386,16-12-23,Ongole,Highway,Fatal,Fog
+387,30-03-24,Sonipat,Expressway,Serious,Windy
+388,26-06-24,Bhagalpur,City Road,Minor,Fog
+389,31-12-24,Ahmednagar,Rural Road,Fatal,Clear
+390,21-10-23,Anand,Expressway,Fatal,Fog
+391,27-08-24,Firozabad,Highway,Serious,Clear
+392,20-04-25,Surendranagar Dudhrej,Expressway,Serious,Windy
+393,11-01-24,Haldia,Expressway,Fatal,Snow
+394,03-12-24,Guwahati,Rural Road,Serious,Fog
+395,31-08-24,Parbhani,Expressway,Serious,Rainy
+396,07-08-24,Sri Ganganagar,Expressway,Minor,Windy
+397,13-05-25,Phagwara,Highway,Serious,Fog
+398,22-04-25,Ajmer,Expressway,Fatal,Clear
+399,28-08-23,Anand,City Road,Serious,Fog
+400,11-10-23,Parbhani,Highway,Fatal,Fog
+401,13-08-23,Pali,Expressway,Minor,Fog
+402,05-05-24,Vasai-Virar,Highway,Serious,Fog
+403,28-01-24,Chinsurah,Rural Road,Fatal,Rainy
+404,14-04-24,Jamnagar,Highway,Minor,Windy
+405,22-08-24,Tiruppur,Rural Road,Serious,Windy
+406,05-01-25,Udaipur,Expressway,Serious,Fog
+407,29-03-25,Suryapet,Highway,Fatal,Rainy
+408,20-05-24,Maheshtala,Highway,Serious,Fog
+409,12-10-23,Ichalkaranji,Highway,Serious,Rainy
+410,23-07-23,Gwalior,Expressway,Serious,Clear
+411,17-05-24,Bikaner,Rural Road,Serious,Rainy
+412,18-11-23,Jaunpur,Expressway,Fatal,Windy
+413,12-09-23,Bhilwara,Expressway,Minor,Windy
+414,12-12-23,Kamarhati,Highway,Serious,Snow
+415,28-01-25,Alwar,Rural Road,Fatal,Fog
+416,30-12-23,Navi Mumbai,City Road,Fatal,Fog
+417,19-06-24,Sirsa,City Road,Fatal,Windy
+418,31-08-24,South Dumdum,Expressway,Serious,Rainy
+419,20-12-23,Hosur,City Road,Fatal,Rainy
+420,03-12-24,Pallavaram,City Road,Fatal,Fog
+421,10-06-23,Kozhikode,Highway,Fatal,Rainy
+422,26-05-24,Gangtok,Expressway,Minor,Windy
+423,07-09-23,Kozhikode,City Road,Fatal,Windy
+424,01-11-23,Jodhpur,City Road,Fatal,Clear
+425,26-10-23,Kumbakonam,Expressway,Serious,Snow
+426,09-09-23,Vellore,Expressway,Fatal,Rainy
+427,26-12-23,Raurkela Industrial Township,Rural Road,Minor,Clear
+428,12-07-23,Bhagalpur,Highway,Fatal,Clear
+429,12-08-24,Dhanbad,City Road,Fatal,Snow
+430,16-09-23,Allahabad,City Road,Minor,Windy
+431,16-12-23,Khammam,Expressway,Minor,Windy
+432,02-03-24,Agra,Highway,Minor,Windy
+433,03-10-24,Coimbatore,City Road,Fatal,Windy
+434,04-08-23,Rajahmundry,Highway,Serious,Rainy
+435,06-10-23,Noida,Highway,Serious,Rainy
+436,30-03-24,Eluru,Rural Road,Fatal,Snow
+437,25-06-23,Jorhat,Highway,Serious,Rainy
+438,10-01-24,Saharanpur,City Road,Minor,Rainy
+439,24-04-24,Bikaner,Highway,Fatal,Rainy
+440,18-10-23,Sultan Pur Majra,Rural Road,Minor,Clear
+441,22-09-24,Nagaon,City Road,Serious,Rainy
+442,23-03-25,Chandigarh,Highway,Minor,Fog
+443,30-01-24,Dibrugarh,Rural Road,Fatal,Windy
+444,14-04-25,Pune,City Road,Fatal,Snow
+445,16-10-23,Pimpri-Chinchwad,Rural Road,Minor,Rainy
+446,23-06-24,North Dumdum,City Road,Fatal,Snow
+447,17-01-24,Ballia,Rural Road,Minor,Clear
+448,25-08-24,Jamnagar,Highway,Fatal,Snow
+449,02-03-25,Mirzapur,Highway,Serious,Clear
+450,23-01-25,Orai,Rural Road,Minor,Windy
+451,30-11-24,Hindupur,Expressway,Fatal,Rainy
+452,17-05-25,Gandhidham,Highway,Fatal,Windy
+453,08-11-23,Tinsukia,Highway,Minor,Rainy
+454,13-07-23,Ramagundam,Expressway,Minor,Rainy
+455,06-04-24,Tiruchirappalli,City Road,Fatal,Rainy
+456,12-07-23,Vellore,Rural Road,Minor,Snow
+457,07-06-24,Nizamabad,Highway,Serious,Fog
+458,24-10-24,Hajipur,Rural Road,Serious,Fog
+459,04-08-23,Kishanganj,Expressway,Serious,Windy
+460,28-10-23,Bhind,Rural Road,Fatal,Clear
+461,13-09-24,Rohtak,City Road,Fatal,Windy
+462,17-11-24,Bilaspur,Highway,Minor,Fog
+463,19-05-24,Serampore,Highway,Minor,Windy
+464,13-11-23,Ambala,Rural Road,Minor,Snow
+465,09-02-24,Bettiah,Expressway,Serious,Windy
+466,18-09-24,Bidhannagar,Rural Road,Minor,Snow
+467,16-09-23,Kamarhati,City Road,Minor,Windy
+468,22-04-24,Akola,Highway,Fatal,Rainy
+469,09-03-24,Hospet,Highway,Minor,Fog
+470,23-10-24,Hajipur,Expressway,Serious,Rainy
+471,24-12-24,Thoothukudi,Highway,Fatal,Rainy
+472,12-12-23,Surendranagar Dudhrej,Rural Road,Serious,Windy
+473,22-02-24,Ballia,Highway,Serious,Rainy
+474,31-08-24,Hubli–Dharwad,Expressway,Minor,Clear
+475,29-01-25,Hospet,Highway,Minor,Clear
+476,19-02-24,Jamshedpur,Highway,Serious,Snow
+477,06-07-24,Darbhanga,Highway,Minor,Fog
+478,06-09-24,Varanasi,City Road,Serious,Windy
+479,04-07-24,North Dumdum,Rural Road,Fatal,Rainy
+480,17-12-23,Mehsana,Expressway,Minor,Fog
+481,20-10-23,Patiala,Highway,Minor,Rainy
+482,30-06-23,Aurangabad,City Road,Minor,Snow
+483,12-12-24,Mango,Expressway,Fatal,Rainy
+484,04-04-25,Morena,City Road,Minor,Windy
+485,20-03-24,Adoni,Expressway,Minor,Clear
+486,18-09-24,Satna,Rural Road,Fatal,Snow
+487,17-07-23,Vellore,Highway,Fatal,Rainy
+488,29-03-25,Muzaffarnagar,Rural Road,Serious,Fog
+489,28-03-24,Danapur,Expressway,Serious,Windy
+490,30-01-24,Agartala,Highway,Serious,Rainy
+491,01-04-25,Guntur,Expressway,Minor,Rainy
+492,01-03-24,Karawal Nagar,Rural Road,Fatal,Fog
+493,03-05-25,Asansol,City Road,Serious,Clear
+494,21-09-24,Hapur,City Road,Serious,Snow
+495,28-12-24,Madanapalle,City Road,Fatal,Clear
+496,09-10-24,Muzaffarpur,Highway,Fatal,Clear
+497,26-09-24,Indore,Expressway,Minor,Fog
+498,28-09-23,Cuttack,Highway,Minor,Clear
+499,08-05-25,Jehanabad,City Road,Serious,Fog
+500,21-09-23,Berhampur,Highway,Serious,Rainy
